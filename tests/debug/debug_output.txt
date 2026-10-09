@@ -1,0 +1,60 @@
+--- BRANDS ---
+2026-01-10 20:35:24,588 - INFO - Fetching brand list...
+2026-01-10 20:35:24,712 - INFO - Found 31 usable brands out of 67 total
+Total Usable Brands: 31
+Brands: Audi, BMW, Chevrolet, Citroen, Datsun, Fiat, Force Motors, Ford, Honda, Hyundai, Jaguar, Jeep, Kia, Land Rover, Lexus, Mahindra, Maruti Suzuki, Maserati, Mercedes-Benz, MG Motors, Mini, Mitsubishi, Nissan, Porsche, Renault, Skoda, Tata, Tata EV, Toyota, Volkswagen, Volvo
+
+--- MODELS for Audi (2020) ---
+Checking Model: A3
+
+--- VARIANTS for A3 ---
+Keys in variant object: ['id', 'name', 'display_name', 'full_name', 'description', 'launch_year', 'discontinued_year', 'ownership_cost', 'specifications_id', 'specs_added', 'is_verified', 'is_public', 'is_usable', 'is_valid', 'pricing_name', 'model', 'is_active', 'crawler', 'transmission_type', 'fuel_type', 'variant_rank', 'tags', 'color', 'image', 'attributes']
+display_name: 35 TDI Premium Plus
+name: 35-tdi-premium-plus
+full_name: Audi A3 35 TDI Premium Plus
+Raw Variant:
+{
+  "id": 5610,
+  "name": "35-tdi-premium-plus",
+  "display_name": "35 TDI Premium Plus",
+  "full_name": "Audi A3 35 TDI Premium Plus",
+  "description": "",
+  "launch_year": 2017,
+  "discontinued_year": 2020,
+  "ownership_cost": null,
+  "specifications_id": null,
+  "specs_added": true,
+  "is_verified": false,
+  "is_public": true,
+  "is_usable": true,
+  "is_valid": true,
+  "pricing_name": null,
+  "model": 375,
+  "is_active": true,
+  "crawler": null,
+  "transmission_type": "automatic",
+  "fuel_type": "diesel",
+  "variant_rank": null,
+  "tags": [],
+  "color": [],
+  "image": [
+    {
+      "primary_image_url": null,
+      "secondary_image_url": null,
+      "primary_image_description": null,
+      "secondary_image_description": null
+    }
+  ],
+  "attributes": [
+    {
+      "display_name": "Mileage (ARAI)",
+      "attribute_id": "mileage-arai_0026",
+      "value": 20.37
+    },
+    {
+      "display_name": "Displacement",
+      "attribute_id": "displacement-cc_0053",
+      "value": 1968.0
+    }
+  ]
+}

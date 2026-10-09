@@ -1,0 +1,12 @@
+# Core Web Scraping & HTTP
+requests>=2.31.0
+tenacity>=8.2.0
+tqdm>=4.65.0
+
+# Data Processing & Export
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Database Integration (PostgreSQL)
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.9
